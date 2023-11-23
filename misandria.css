@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: rgb(94, 53, 94);
+    color: rgb(134, 173, 246);
+    font-size: larger;
+}
+@font-face {
+    font-family: Font;
+    src: url(new_journey/New\ Journey\ Demo.otf);
+}
+h1{
+    font-family: Font;
+}

@@ -1,0 +1,96 @@
+body{
+    text-align: center;
+    color: rgb(134, 173, 246);
+    font-size: larger;
+    background-image: url(https://manati.mx/wp-content/uploads/2021/03/tWITTER-Misoginia-tuits-3.jpg);
+    background-size: 70%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    background-color: #ac1ab7
+}
+
+.p {
+    text-align: left;
+    font-size:large;
+    border: 3px solid;
+    border-radius: 4px;
+    width: 300px;
+    background-color: rgb(132, 79, 182);
+    color: rgb(151, 248, 224);
+}
+
+p {
+    border: 3px solid;
+    border-radius: 4px;
+    padding: 10px;
+    font-size: x-large;
+    background-color:  rgb(132, 79, 182);
+    color: rgb(151, 248, 224);
+    width: 700px;
+}
+
+.miso:hover {
+    background-color: #1558c6;
+    color: white;
+  }
+
+.miso{
+    border: 3px solid #ededed;
+    border-radius: 4px;
+    color: azure;
+    transition-duration: 0.4s;
+    padding: 20px;
+}
+
+.misa:hover{
+    background-color: #ee00ff;
+    color: white;
+}
+
+.misa{
+    border: 3px solid #ededed;
+    border-radius: 4px;
+    color: azure;
+    transition-duration: 0.4s;
+    padding: 20px;
+}
+
+.lp:hover{
+    background-color: #c06102;
+    color: white;
+}
+
+.lp{
+    border: 3px solid #ededed;
+    border-radius: 4px;
+    color: azure;
+    transition-duration: 0.4s;
+    padding: 20px;
+}
+
+.a {
+    border-collapse: separate;
+    border-spacing: 5px;
+    
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.bar{
+    background-color: #ac1ab7;
+    height: 125px;
+    text-align: center;
+    color: rgb(151, 248, 224);
+}
+
+.titulo{
+    border: 3px solid;
+    border-radius: 4px;
+    padding: 10px;
+    font-size: large;
+    background-color:  rgb(132, 79, 182);
+    color: rgb(151, 248, 224);
+}

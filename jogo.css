@@ -1,0 +1,101 @@
+    #div2 {
+    float:left;
+    width : 700px;
+    height: 50px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px  solid black;
+    background-color:  rgb(132, 79, 182);
+    color: rgb(151, 248, 224);
+    }
+    body{
+        text-align: center;
+        background-color: rgb(94, 53, 94);
+        color: rgb(134, 173, 246);
+        font-size: larger;
+    }
+    
+    .p {
+        text-align: left;
+        font-size:x-large;
+        border: 3px solid;
+        border-radius: 4px;
+        width: 300px;
+        background-color: rgb(132, 79, 182);
+        color: rgb(151, 248, 224);
+    }
+    
+    p {
+        top: 50%;
+        left: 25%;
+        transform: translate( 10%, -50%);
+        padding: 10px;
+        font-size: larger;
+        width: 600px;
+    }
+    
+    .miso:hover {
+        background-color: #1558c6;
+        color: white;
+      }
+    
+    .miso{
+        border: 3px solid #ededed;
+        border-radius: 4px;
+        color: azure;
+        transition-duration: 0.4s;
+        padding: 20px;
+    }
+    
+    .misa:hover{
+        background-color: #ac1ab7;
+        color: white;
+    }
+    
+    .misa{
+        border: 3px solid #ededed;
+        border-radius: 4px;
+        color: azure;
+        transition-duration: 0.4s;
+        padding: 20px;
+    }
+    
+    .lp:hover{
+        background-color: #c06102;
+        color: white;
+    }
+    
+    .lp{
+        border: 3px solid #ededed;
+        border-radius: 4px;
+        color: azure;
+        transition-duration: 0.4s;
+        padding: 20px;
+    }
+    
+    .a {
+        border-collapse: separate;
+        border-spacing: 20px;
+        
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+    #div1 {
+        float:left;
+        width : 350px;
+        height: 350px;
+        margin: 10px;
+        padding: 10px;
+        border: 1px  solid black;
+        background-color:  rgb(132, 79, 182);
+        color: rgb(151, 248, 224);
+        }
+    @font-face {
+        font-family: Font;
+        src: url(new_journey/New\ Journey\ Demo.otf);
+    }
+    h2{
+        font-family: Font;
+    }
